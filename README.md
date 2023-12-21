@@ -1,2 +1,34 @@
-# bubble-game
-Bubble Pop Game: A fun and challenging browser game where you pop bubbles with the correct number before the 60-second timer runs out. Score points for each correct click, but beware of wrong bubbles. Simply clone the repo and open index.html to play!
+Bubble Pop Game
+This is a simple browser-based game where players need to pop bubbles by clicking on them. The game has a timer, and players score points by clicking on bubbles with the correct number.
+
+Table of Contents
+Installation
+Usage
+Game Rules
+Code Structure
+License
+Installation
+Clone the repository to your local machine.
+
+bash
+Copy code
+git clone https://github.com/your-username/bubble-pop-game.git
+Open the index.html file in your web browser.
+
+Usage
+Open the game in your web browser.
+Click on bubbles in the lower panel with the correct number to score points.
+The game has a timer, so try to score as many points as possible before time runs out.
+Game Rules
+You score 10 points for each correct bubble click.
+The game has a timer set to 60 seconds.
+If the timer reaches 0, the game displays "Game Over."
+Clicking on a bubble with the wrong number will display an alert with "Wrong Bubble!"
+Code Structure
+The game consists of HTML, CSS, and JavaScript files:
+
+index.html: The main HTML file that structures the game layout and includes links to the necessary styles and scripts.
+
+style.css: The stylesheet file that defines the game's visual appearance.
+
+script.js: The JavaScript file that contains the game logic. It handles score tracking, bubble creation, timer functionality, and user interactions.
