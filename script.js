@@ -1,4 +1,4 @@
-var timerVal = 3;
+var timerVal = 60;
 var scoreVal = 0;
 var hitVal = 0;
 
