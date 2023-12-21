@@ -45,6 +45,4 @@ The game consists of HTML, CSS, and JavaScript files:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-Feel free to customize and modify the game according to your preferences!
+Unavailable.
