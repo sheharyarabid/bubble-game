@@ -76,3 +76,19 @@ html,body {
     cursor:grab;
     color: royalblue;
 }
+@media only screen and (max-width: 768px) {
+    .box {
+        padding:8px 8px;
+        font-weight: 700;
+        font-size: 15px;
+        background-color: white;
+        color: royalblue !important;
+        border-radius: 5px; 
+    }
+    .elem h2{
+        font-weight: 700;
+        font-size: 15px !important;
+        margin-left: 10px ;
+    }
+
+}
