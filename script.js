@@ -32,7 +32,7 @@ var runTimer = () => {
       timerVal--;
     } else {
       clearInterval(timer);
-      document.querySelector("#pbtm").innerHTML = `<h1>Game Over</h1>`;
+      document.querySelector("#pbtm").innerHTML = `<h1 style='color:royalblue'>Game Over</h1>`;
       //Clears memory when timer is finished.
     }
     document.querySelector("#timerVal").innerHTML = timerVal;
